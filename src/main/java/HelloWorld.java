@@ -6,7 +6,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		//System.out.println("hellow world");
 		System.out.println(CreateMessage());
-		test
+
 	}
 	
 	public static String CreateMessage()
