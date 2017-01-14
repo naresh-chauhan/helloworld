@@ -15,7 +15,7 @@ public class HWTest {
 	public void testCreateMessage() {
 		HelloWorld test = new HelloWorld();
 		String result = test.CreateMessage();
-		assertEquals("Hello Worlds", result);
+		assertEquals("Hello World", result);
 			
 		//assertEquals.
 		//fail("Not yet implemented");
