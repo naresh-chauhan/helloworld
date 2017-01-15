@@ -11,6 +11,7 @@ public class HelloWorld {
 	
 	public static String CreateMessage()
 	{
-		return "Hello World";
+		return "Hello World!"; 
+		
 	}
 }
